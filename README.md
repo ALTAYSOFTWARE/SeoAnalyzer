@@ -1,0 +1,2 @@
+# SeoAnalyzer
+Seo Analiz Programı
