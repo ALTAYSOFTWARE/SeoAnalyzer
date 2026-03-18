@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SeoAnalyzer
+</name>
+</assembly>
+<members>
+<member name="T:SeoAnalyzer.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:SeoAnalyzer.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:SeoAnalyzer.SeoAnalyzer.App">
+<summary>
+App
+</summary>
+</member>
+<member name="M:SeoAnalyzer.SeoAnalyzer.App.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:SeoAnalyzer.SeoAnalyzer.App.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+</members>
+</doc>
